@@ -1,1 +1,10 @@
 /* Временные стили добавлять здесь */
+.ms-72px {
+  margin-left: 72px;
+}
+.mt-64px {
+  margin-top: 64px;
+}
+.me-72px {
+  margin-right: 72px;
+}
